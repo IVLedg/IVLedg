@@ -2,9 +2,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gsinisterdev" alt="gsinisterdev" /></a> </p>
 
-- Tryhackme: [Profile](https://tryhackme.com/p/GSinister)
-
-- My Pentest Site: [SOON...](HTTPS://SOON...)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
